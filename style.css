@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+    font-family: "Montserrat";
+}
+.navbar-brand{
+    font-size: 1.75rem;
+    /* font-family: "Ubuntu"; */
+    font-weight: 100;  
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+.info{
+    text-align: center;
+    color: white;
+    font-weight: 700px;
+    line-height: 5%;
+    margin-top: 3%;
+   
+   
+}
+.container-fluid{
+    padding: 4% 11%;
+}
+.welcome-msg{
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 800;
+    margin-top: 5%;
+
+}
+
+.about{
+    background-color: white;
+    text-align: center;
+    color: black;
+    margin-top: 20%;
+    padding-bottom: 8%;
+    
+}
+.about-text{
+    
+    padding-top: 25px;
+    /* font-weight: 900px; */
+
+}
+p{
+    font-weight: 510;
+    color: #8a8a8a;
+    
+}
+.skills{
+    text-align: center;
+    padding-bottom: 8%;
+    
+    color: white;
+
+}
+.skills-text{
+    padding: 15px;
+    background-color: #8a8a8a;
+    color: black;
+    
+}
+
+.container-skill{
+    padding: 2% 5%;
+    display: inline-block;
+
+}
+.white-section{
+    background-color: white;
+    text-align: center;
+
+}
+.copyright{
+    margin: 35px 0 0;
+    font-family: "Rinstonia";
+    font-size: 2.5rem;
+    font-weight: 300;
+    color: #8a8a8a;
+}
+.fa-brands{
+    margin-right: 30px;
+    font-size: 2.9rem;
+    color: black;
+
+}
+.fa-solid{
+    margin-right: 25px;
+    font-size: 2.9rem;
+    color: black;
+}
+
