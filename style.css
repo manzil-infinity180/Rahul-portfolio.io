@@ -93,3 +93,16 @@ p{
     color: black;
 }
 
+.sd-msg{
+    /* background-color: white; */
+    text-align: center;
+    margin: 10px 0;
+}
+.download-btn{
+    width:410px;
+    height:60px;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: "ubuntu";
+}
+
